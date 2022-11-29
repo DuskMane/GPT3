@@ -1,3 +1,7 @@
+# Deployed website
+
+https://cerulean-sundae-c739ba.netlify.app/
+
 # The design of this website (Figma)
 
 https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3?node-id=0%3A1&t=D6N7J3bcKNU3rQrw-0
